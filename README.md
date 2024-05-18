@@ -1,6 +1,6 @@
 # Welcome
 
-Check out the page [here](heyo (1).html).
+Check out the page [here](heyo.html).
 
 ## How to View
 
