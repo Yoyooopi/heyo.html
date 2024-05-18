@@ -1,6 +1,6 @@
 # Welcome
 
-Check out the page [here](heyo.html).
+Check out the page [here](heyo (1).html).
 
 ## How to View
 
@@ -10,3 +10,4 @@ Simply click the link above to see something special.
 
 - `heyo.html`: The main HTML file.
 - `styles.css`: The CSS file for styling the web page.
+-`script.js` : java script
